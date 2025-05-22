@@ -6,7 +6,7 @@ import light from '../assets/img/light.png'
 import PlayButton from '../assets/img/PlayButton.svg'
 import PageButton from '../assets/img/PageButton.svg'
 import HomeButton from '../assets/img/HomeButton.svg'
-import search from '../assets/img/search.svg'
+import Search from '../assets/img/Search.svg'
 
 const Navbar = () => {
     return (
@@ -24,7 +24,7 @@ const Navbar = () => {
                 </div>
                 <div className="kanan flex justify-end items-center">
                     <ul className='flex '>
-                        <li><a href=""><img src={search} alt="" className='size-5 mx-1.5 mt-0.5'/>
+                        <li><a href=""><img src={Search} alt="" className='size-5 mx-1.5 mt-0.5'/>
                             </a></li>
                         <li><a href=""><img src={light} alt="" className='size-5 mx-1.5 mt-0.5'/>
                             </a></li>
