@@ -1,4 +1,4 @@
-import Youtube from '../assets/img/YouTubeButton.svg'
+import Youtube from '../assets/img/YoutubeButton.svg'
 import Instagram from '../assets/img/InstragramButton.svg'
 import Facebook from '../assets/img/FacebookButton.svg'
 import Twitter from '../assets/img/TwitterButton.svg'
